@@ -8,3 +8,9 @@ Used Tools :
 - Express - Middleware
 - SCSS - Designing
 - Auth0 - Authentication
+
+Database steps
+====================
+
+- Creact Database Named : photogallery 
+- Import file file - users.json present in root directory. 
