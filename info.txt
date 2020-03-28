@@ -1,0 +1,10 @@
+
+
+Used Tools :
+
+- React Js - Frontend
+- Node Js - Backend
+- MongoDB - Database
+- Express - Middleware
+- SCSS - Designing
+- Auth0 - Authentication
